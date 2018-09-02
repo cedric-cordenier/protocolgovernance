@@ -1,7 +1,7 @@
-#Protocol Governance
+# Protocol Governance
 
-##What is Protocol Governance?
+## Reading
 
-##Resources
+## Resources
 
-##Other things
+## Other things
